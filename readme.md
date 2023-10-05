@@ -3,12 +3,18 @@
 # test commit
 
 Ingredients I need:
+
 - pizzas (TODO)
 - sauces (TODO)
 - spreads (TODO)
-+ pepper (DONE)
-+ salt (DONE)
+
+* pepper (DONE)
+* salt (DONE)
 
 Asian food:
 宫保鸡丁
 野生菌
+
+dishes:
+Full english breakfast
+Sunny side up
