@@ -16,5 +16,5 @@ Asian food:
 野生菌
 
 dishes:
-Full english breakfast
-Sunny side up
+- Full english breakfast
+- Sunny side up
